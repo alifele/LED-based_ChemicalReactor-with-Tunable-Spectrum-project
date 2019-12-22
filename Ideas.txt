@@ -1,0 +1,15 @@
+Options for the Reactor:
+
+Prepheral :
+
+	1. USB connection with computer so that you can change the spectrum using the GUI (maybe with LABView)
+	2. Ethernet connetction (with LAN of WIFI) with internet so that one can both control the spectrum and save plot the acquied data
+	to proved the 'Temperature' ,'CO2' and the spectrum
+	3. GLCD ---> designers + sharif logo + Lab name
+	4. Sound effects ---> welcome music + status + ...
+	5. Temperature + CO2 sensor
+	6. In the GUI the user can slide the slide bars to have a custom distribution (compared to a real spectrum of the sun in dashed lines)
+
+Electronic setup:
+	1. using the MOSFET with gate driver
+	2. 
